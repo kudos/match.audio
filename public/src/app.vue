@@ -31,7 +31,6 @@
 @import "bulma/sass/helpers/_all.sass";
 @import "bulma/sass/elements/title.sass";
 @import "bulma/sass/elements/button.sass";
-@import "bulma/sass/elements/form.sass";
 @import "bulma/sass/elements/container.sass";
 @import "bulma/sass/elements/notification.sass";
 @import "bulma/sass/elements/other.sass";

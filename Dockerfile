@@ -1,5 +1,7 @@
 FROM node:14.2.0
 
+ENV PATH="/app/node_modules/.bin:${PATH}"
+
 WORKDIR /app
 
 COPY package.json package.json
